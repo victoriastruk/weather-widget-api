@@ -1,8 +1,28 @@
-# React + Vite
+# Weather Widget 🌦
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React component that displays current weather information with the ability to switch between temperature and wind speed units.
 
-Currently, two official plugins are available:
+## 🔧 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Display current temperature and wind speed
+- Unit switchers:
+  - Temperature: °C / °F
+  - Wind speed: m/s / km/h
+- Fetch data from the [Open-Meteo API](https://open-meteo.com/en/docs)
+
+## 🧪 Technologies Used
+
+- React
+- Fetch API
+- State management with `useState`
+- Controlled `<select>` elements
+
+## 🔗 Live Preview
+
+👉 [View live in CodeSandbox](https://codesandbox.io/p/github/victoriastruk/current-weather/main?workspaceId=ws_WXKf4ER6jNaFshw9iozUDB)
+
+## 📚 Useful Links
+
+- [Open-Meteo API Docs](https://open-meteo.com/en/docs)
+- [React Select Elements](https://react.dev/reference/react-dom/components/select#controlling-a-select-box-with-a-state-variable)
+
