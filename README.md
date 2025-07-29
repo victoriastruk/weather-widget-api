@@ -19,7 +19,7 @@ A React component that displays current weather information with the ability to 
 
 ## 🔗 Live Preview
 
-👉 [View live in CodeSandbox](https://codesandbox.io/p/github/victoriastruk/current-weather/main?workspaceId=ws_WXKf4ER6jNaFshw9iozUDB)
+👉 [View live in CodeSandbox](https://codesandbox.io/p/sandbox/hfnp37)
 
 ## 📚 Useful Links
 
